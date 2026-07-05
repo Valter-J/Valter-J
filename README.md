@@ -1,4 +1,4 @@
-# 💻 Olá, me chamo Valter junio
+# Olá, me chamo Valter junio
 
 
 ##  Sobre mim
@@ -11,8 +11,13 @@ Meu objetivo é evoluir continuamente como desenvolvedor, participar de projetos
 
 ## Tecnologias
 
+<img
+align="right"
+alt="Bolinha Giratória"
+ src="./assets/bolinhagiratoria.gif" width="350">
 
 ### Frontend
+
 
 <img
 width="40" 
@@ -38,6 +43,16 @@ height="40"
 alt="JavaScript Line"
 title="JavaScript"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+
+
+
+
+
+
+
+
+
 
 ### Backend
 <img 
@@ -76,6 +91,14 @@ height="40"
 alt="Java"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-plain-wordmark.svg" />
 
+
+
+
+
+
+
+
+
 ## 📊 Estatística
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Valter-J&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=Valter-J&include_all_commits=true&theme=dark)
@@ -87,6 +110,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-pla
 
 
 
+<img src="./assets/DadosCrescimento.gif" width="750" height="200">
 
 
 

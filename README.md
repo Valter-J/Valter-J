@@ -17,7 +17,7 @@ Meu objetivo é evoluir continuamente como desenvolvedor, participar de projetos
 <img
 align="right"
 alt="Bolinha Giratória"
- src="./assets/bolinhagiratoria.gif" width="350">
+ src="./assets/uni.jpg" width="1000" height="200">
 
 ### Frontend
 
@@ -113,7 +113,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-pla
 
 
 
-<img src="./assets/DadosCrescimento.gif" width="750" height="200">
+<img src="./assets/rio.jpg" width="1000" height="200">
 
 
 

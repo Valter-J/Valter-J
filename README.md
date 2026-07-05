@@ -17,7 +17,7 @@ Meu objetivo é evoluir continuamente como desenvolvedor, participar de projetos
 <img
 align="right"
 alt="Bolinha Giratória"
- src="./assets/nuvi.jpg" width="300">
+ src="./assets/ilha.gif" width="300">
 
 ### Frontend
 

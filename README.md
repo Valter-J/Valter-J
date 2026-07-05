@@ -1,3 +1,6 @@
+
+<img src="./assets/lua.jpg">
+
 # Olá, me chamo Valter junio
 
 

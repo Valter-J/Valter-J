@@ -76,13 +76,15 @@ height="40"
 alt="Java"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-plain-wordmark.svg" />
 
-
-
 ## 📊 Estatística
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Valter-J&show_icons=true&theme=github_dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Valter-J&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=Valter-J&include_all_commits=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valter-J&layout=compact&theme=github_dark)
+### Linguagens
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Valter-J&hide_title=true&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Valter-J&hide_title=true&langs_count=4&theme=dark)
+
+
 
 
 

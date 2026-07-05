@@ -17,10 +17,9 @@ Meu objetivo é evoluir continuamente como desenvolvedor, participar de projetos
 <img
 align="right"
 alt="Bolinha Giratória"
- src="./assets/ilha.gif" width="300">
+ src="./assets/ilha.gif" width="350">
 
-### Frontend
-
+### FrontEnd
 
 <img
 width="40" 
@@ -48,16 +47,7 @@ title="JavaScript"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
 
-
-
-
-
-
-
-
-
-
-### Backend
+### BackEnd
 <img 
 width="40" 
 height="40"
@@ -80,8 +70,7 @@ height="40"
 alt="Django"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
 
-
-### Banco
+### Banco de dados
 
 <img
 width="40" 
@@ -93,12 +82,6 @@ width="40"
 height="40"
 alt="Java"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-plain-wordmark.svg" />
-
-
-
-
-
-
 
 
 

@@ -1,5 +1,5 @@
 
-<img src="./assets/arte.jpg" width="750">
+<img src="./assets/arte.jpg" width="1000" height="200">
 
 # Olá, me chamo Valter junio
 
@@ -17,7 +17,7 @@ Meu objetivo é evoluir continuamente como desenvolvedor, participar de projetos
 <img
 align="right"
 alt="Bolinha Giratória"
- src="./assets/uni.jpg" width="1000" height="200">
+ src="./assets/uni.jpg" width="350">
 
 ### Frontend
 

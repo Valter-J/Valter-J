@@ -1,5 +1,5 @@
 
-<img src="./assets/lua.jpg">
+<img src="./assets/arte.jpg" width="750">
 
 # Olá, me chamo Valter junio
 

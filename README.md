@@ -99,7 +99,6 @@ alt="Estistica"
 src="https://github-stats-extended.vercel.app/api?username=Valter-J&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark&locale=pt-br&icon_color=FFFFFF&text_color=FFFFFF"/>
 <img
 align="left"
-width="300" 
 height="160"
 alt="Estistica"
 src="https://github-stats-extended.vercel.app/api/top-langs?username=Valter-J&hide_title=true&langs_count=3&theme=dark&icon_color=FFFFFF&text_color=FFFFFF"

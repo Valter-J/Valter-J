@@ -93,12 +93,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-pla
 
 
 <img
-align="center"
+align="left"
 width="450" 
 alt="Estistica"
 src="https://github-stats-extended.vercel.app/api?username=Valter-J&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark&locale=pt-br&icon_color=FFFFFF&text_color=FFFFFF"/>
 <img
-align="center"
+align="left"
 height="160"
 alt="Estistica"
 src="https://github-stats-extended.vercel.app/api/top-langs?username=Valter-J&hide_title=true&langs_count=3&theme=dark&icon_color=FFFFFF&text_color=FFFFFF"
@@ -111,9 +111,8 @@ src="https://github-stats-extended.vercel.app/api/top-langs?username=Valter-J&hi
  <br>
  <br>
  <br>
- <br>
- <br>
 
+ 
 ***
 <img 
 src="./assets/rio.jpg" width="1000" height="200">

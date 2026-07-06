@@ -83,20 +83,44 @@ height="40"
 alt="Java"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-plain-wordmark.svg" />
 
+ <br>
+ <br>
 
 
-## 📊 Estatística
+<h3 align="center"> Estatísticas </h3>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Valter-J&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=Valter-J&include_all_commits=true&theme=dark)
-
-### Linguagens
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Valter-J&hide_title=true&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Valter-J&hide_title=true&langs_count=4&theme=dark)
+***
 
 
+<img
+align="left"
+width="450" 
+alt="Estistica"
+src="https://github-stats-extended.vercel.app/api?username=Valter-J&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark&locale=pt-br&icon_color=FFFFFF&text_color=FFFFFF"/>
+<img
+align="left"
+width="450" 
+height="160"
+alt="Estistica"
+src="https://github-stats-extended.vercel.app/api/top-langs?username=Valter-J&hide_title=true&langs_count=3&theme=dark&icon_color=FFFFFF&text_color=FFFFFF"
+ />
+
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+
+***
 
 
-<img src="./assets/rio.jpg" width="1000" height="200">
+
+<img 
+src="./assets/rio.jpg" width="1000" height="200">
 
 
 

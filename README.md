@@ -24,26 +24,26 @@ alt="Bolinha Giratória"
 <img
 width="40" 
 height="40"
-alt="JavaScript Line"
+alt="JavaScript"
 title="JavaScript"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
 <img
 width="40" 
 height="40"
 alt="HTML"
-title="JavaScript"
+title="HTML"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img
 width="40" 
 height="40"
-alt="Taillwindcss"
-title="JavaScript"
+alt="Taillwind"
+title="Taillwind"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img
 width="40" 
 height="40"
-alt="JavaScript Line"
-title="JavaScript"
+alt="css"
+title="css"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
 
@@ -75,12 +75,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-pla
 <img
 width="40" 
 height="40"
-alt="Java"
+alt="Mysql"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <img
 width="40" 
 height="40"
-alt="Java"
+alt="SqlLite"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-plain-wordmark.svg" />
 
  <br>

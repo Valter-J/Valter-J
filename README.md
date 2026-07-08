@@ -57,16 +57,19 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
 <img
 width="40" 
 height="40"
+title="SpringBoot"
 alt="SpringBoot"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
 <img
 width="40" 
 height="40"
+title="Python"
 alt="Python"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
 <img 
 width="40" 
 height="40"
+title="Django"
 alt="Django"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
 
@@ -75,11 +78,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-pla
 <img
 width="40" 
 height="40"
+title="Mysql"
 alt="Mysql"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <img
 width="40" 
 height="40"
+title="SqlLite"
 alt="SqlLite"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-plain-wordmark.svg" />
 

@@ -1,5 +1,5 @@
 
-<img src="./assets/arte.jpg" width="1000" height="200">
+<img src="./assets/arte.jpg"  alt="nuvens" width="1000" height="200">
 
 # Olá, me chamo Valter junio
 
@@ -112,7 +112,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-pla
   
 ***
 <img 
-src="./assets/rio.jpg" width="1000" height="200">
+src="./assets/rio.jpg" alt="Paisagem" width="1000" height="200">
 
 
 
